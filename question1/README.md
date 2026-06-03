@@ -1,4 +1,4 @@
-# Question1:
+# Question 1:
 
 ## My Approach
 For this question, I broke the problem into simple parts and tried to keep everything simple and logical.
