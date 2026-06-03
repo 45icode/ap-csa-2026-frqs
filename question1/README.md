@@ -11,3 +11,6 @@ Part B was the hardest part, specifically removing the character before the "-".
 
 ## What I would do differently:
 Next time, I would spend more time checking over my code.
+
+## Picture of the Question
+
