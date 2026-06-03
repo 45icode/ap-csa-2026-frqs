@@ -12,3 +12,5 @@ The logic was the hardest of the 3 questions. I had to think about how to check 
 
 ## What I would do differently:
 Next time, I would double check and think my logic over.
+
+## Picture of the Questions:
